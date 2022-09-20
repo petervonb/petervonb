@@ -1,4 +1,4 @@
-### Hi there 👋
+### Peter von Bodelschwingh - Software Engineering student @ Fontys Venlo, The Netherlands
 
 <!--
 **petervonb/petervonb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Prospective software engineer with a passion for data. Developed some Business Intelligence projects in medium and large sized companies in my work phase before my studies and during my internship at PricewaterhouseCoopers Germany. Currently, I am deepening my knowdledge of AI topic using Python, Scikit Learn, TensorFlow and Keras. In addition to that me and my project group are currently developing a machine learning model for the dutch police as part of our studies. 
